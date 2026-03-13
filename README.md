@@ -15,10 +15,10 @@ A sleek, optimized, and dynamic movie discovery application built entirely on **
 - [Acknowledgments](#-acknowledgments)
 - [Contact](#-contact)
 
----
 
 ## 🚀 Demo
-*(You can add your Vercel Live Demo Link here once deployed)*
+Check out the live version here:  
+👉 **[Live Demo Link](https://cine-stream2-0.vercel.app)** 
 
 ---
 
